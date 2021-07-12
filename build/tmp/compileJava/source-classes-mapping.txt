@@ -1,0 +1,8 @@
+dao/SQLConnection.java
+ dao.SQLConnection
+dao/ProductDAO.java
+ dao.ProductDAO
+model/Product.java
+ model.Product
+controller/productsServlet.java
+ controller.productsServlet
